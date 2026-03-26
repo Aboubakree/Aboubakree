@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aboubakr</h1>
 <h3 align="center">Software Engineering & AI Student</h3>
-<center><a href="https://www.linkedin.com/in/aboubakre-ak"><img src="https://badge.mediaplus.ma/darkgray/akrid" alt="akrid's 42 stats" /></a></center>
+<h1 align="center"><a href="https://www.linkedin.com/in/aboubakre-ak"><img src="https://badge.mediaplus.ma/darkgray/akrid" alt="akrid's 42 stats" /></a></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
