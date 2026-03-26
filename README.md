@@ -10,7 +10,7 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 
-<p align="center">
+<div align="center">
 
   <!-- Languages -->
   <strong>Languages</strong><br/>
@@ -54,12 +54,4 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 
-  <br/><br/>
-
-  <!-- Frameworks -->
-  <!--
-  <strong>Frameworks</strong><br/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/> 
-  -->
-
-</p>
+</div>
