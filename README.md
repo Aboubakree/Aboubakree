@@ -57,7 +57,9 @@
   <br/><br/>
 
   <!-- Frameworks -->
+  <!--
   <strong>Frameworks</strong><br/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/> 
+  -->
 
 </p>
